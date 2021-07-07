@@ -75,3 +75,11 @@ footer a {
   float: left;
   color: white;
 }
+
+@media screen and (max-width: 900px) {
+  .left,
+  .main,
+  .right {
+    width: 100%;
+  }
+}
